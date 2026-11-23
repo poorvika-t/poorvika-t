@@ -20,5 +20,5 @@ I'm a second-year Computer Science Engineering student interested in software de
 ### LeetCode Statistics
 
 <p align="center">
-  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/Poorvika_T?theme=light&font=Roboto%20Mono)" alt="LeetCode Statistics" />
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Poorvika_T?theme=light&font=Roboto%20Mono)
 </p>

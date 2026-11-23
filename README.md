@@ -13,6 +13,6 @@ I'm a second-year Computer Science Engineering student interested in software de
 
 ### Connect with me
 
-- 📧 Email: your-email@example.com
+- 📧 Email: tpoorvika072008@gmail.com
 - 💼 LinkedIn: [Connect with me]((https://www.linkedin.com/in/poorvika07/))
 - 🐙 GitHub: [@poorvika-t](https://github.com/poorvika-t)

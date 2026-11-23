@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Poorvika 👋
 
-<!--
-**poorvika-t/poorvika-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a second-year Computer Science Engineering student interested in software development, problem-solving, and building practical technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently working on:** Personal and academic projects.
+- 🌱 **Currently learning:** Software development and AI technologies.
+- 💻 **Programming Languages:** Python, C, Java, HTML, CSS, JavaScript.
+- 🛠️ **Developer Tools:** Git, GitHub, VS Code.
+- 🤖 **Development Approach:** AI-assisted development and vibe coding.
+- 🤝 **Open to:** Internships, collaborations, and learning opportunities.
+
+### Connect with me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Connect with me]((https://www.linkedin.com/in/poorvika07/))
+- 🐙 GitHub: [@poorvika-t](https://github.com/poorvika-t)

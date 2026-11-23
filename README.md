@@ -16,3 +16,9 @@ I'm a second-year Computer Science Engineering student interested in software de
 - 📧 Email: tpoorvika072008@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/poorvika07/)
 - 🐙 GitHub: [@poorvika-t](https://github.com/poorvika-t)
+
+### LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/[YOUR_LEETCODE_USERNAME](https://leetcode.com/u/Poorvika_T/)?theme=light&font=Baloo&ext=heatmap" alt="LeetCode Statistics" />
+</p>
